@@ -1,9 +1,9 @@
 class Framy < Formula
   desc "cli enframes images written in Rust"
   homepage "https://github.com/HikaruTakakura/framy"
-  url "https://github.com/HikaruTakakura/framy/releases/download/v0.1.0/framy-mac.tar.gz"
-  sha256 "eefa016b9e5c6d5a3d1d7f19e77943f33833c0108efacf2b729c61c9a3f8e017"
-  version "0.1.0"
+  url "https://github.com/HikaruTakakura/framy/releases/download/v0.1.1/framy-mac.tar.gz"
+  sha256 "159e3e3b2e3d22c08dc36a86e7790c3c61f3b76f07beedc12f4efcfdb51dfee0"
+  version "0.1.1"
 
   def install
     bin.install "framy"
